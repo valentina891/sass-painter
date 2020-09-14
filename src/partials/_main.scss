@@ -1,0 +1,27 @@
+.section-one {
+    background-color: $bcg-black;
+    background-image: url('https://www.painterartist.com/static/ptr/product_content/painteressentials/7/intro.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: $section-oneHeight;
+}
+
+.section-two {
+    height: $section-oneHeight;
+}
+
+.section-three,
+.section-four,
+.section-five {
+    background-color: $bcg-black;
+    height: $section-oneHeight;
+}
+
+.section-six {
+    height: $jumbHeight;
+}
+
+.section-seven {
+    height: $jumbHeight;
+    background-color: #344c88;
+}

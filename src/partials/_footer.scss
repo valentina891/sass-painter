@@ -1,0 +1,10 @@
+footer {
+    .gray-footer {
+        height: 300px;
+        background-color: #ececec;
+    }
+    .black-footer {
+        background-color: $bcg-black;
+        height: $headerHeight;
+    }
+}
